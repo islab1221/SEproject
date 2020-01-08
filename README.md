@@ -12,10 +12,11 @@
 - doc
   - finalexam_report_Team_9
   - midtermexam_report_Team_9
+  - SE_會議記錄
   - Team#9_Revised_PEP
   - Team#9_Revised_SRS
-  - SDD
-  - STD
+  - Team#9_SDD
+  - Team#9_STD
 - ProjectSourceCode
 - database
   - medical_record_account
