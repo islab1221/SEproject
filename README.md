@@ -10,11 +10,10 @@
   - SE_WBS
   - SE_甘特圖
 - doc
-  - 期末報告.pptx
-  - 期中報告.pdf
-  - PEP
-  - Team#5_Revised_SRS
-  - SRS
+  - finalexam_report_Team_9
+  - midtermexam_report_Team_9
+  - Team#9_Revised_PEP
+  - Team#9_Revised_SRS
   - SDD
   - STD
 - ProjectSourceCode
@@ -35,6 +34,7 @@ https://www.jetbrains.com/idea/
 
 
 在IntelliJ IDEA裡開啟project,並在configuration選擇project設定檔
+
 
 預設管理員帳號：admin
 
