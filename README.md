@@ -34,8 +34,17 @@ https://archive.apache.org/dist/tomcat/tomcat-8/v8.5.45/bin/
 https://www.jetbrains.com/idea/
 
 
-在IntelliJ IDEA裡開啟project,並在設定檔選擇啟動tomcat
+在IntelliJ IDEA裡開啟project,並在configuration選擇project設定檔
 
 預設管理員帳號：admin
 
 預設管理員密碼：123
+
+預設病患帳號：patient
+
+預設病患密碼：123
+
+預設醫療人員帳號：doctor
+
+預設醫療人員密碼：123
+
