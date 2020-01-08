@@ -3,8 +3,12 @@
 #### File structure:
 
 ```
-- demVideo
-  - Final_demo
+- img
+  - SE_CLASS_DIAGRAM
+  - SE_SYSTEM_BLOCK_DIAGRAM
+  - SE_USE_CASE_DIAGRAM
+  - SE_WBS
+  - SE_甘特圖
 - doc
   - 期末報告.pptx
   - 期中報告.pdf
@@ -13,8 +17,10 @@
   - SRS
   - SDD
   - STD
-- Final_project_1(第一版)
-- Final_project_2(第二版)
+- ProjectSourceCode
+- database
+  - medical_record_account
+
 README.md
 ```
 
@@ -30,6 +36,6 @@ https://www.jetbrains.com/idea/
 
 在IntelliJ IDEA裡開啟project,並在設定檔選擇啟動tomcat
 
-預設帳號：107368009
+預設管理員帳號：admin
 
-預設密碼：107368009
+預設管理員密碼：123
